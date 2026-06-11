@@ -163,7 +163,7 @@ footer {
 
 
 /* responsividade primeira escala*/
-@media (max-width: 1200px) {
+@media (max-width: 1024px) {
     main {
         grid-template-columns: 220px 1fr;
         gap: 18px;
@@ -174,7 +174,7 @@ footer {
     }
 }
 /* responsividade segunda escala*/
-@media (max-width: 860px) {
+@media (max-width: 680px) {
     body {
         margin-right: 0;
     }
@@ -213,7 +213,7 @@ footer {
     }
 }
 /* responsividade primeira escala*/
-@media (max-width: 620px) {
+@media (max-width: 420px) {
     body {
         margin-top: 70px;
         margin-right: 0;
